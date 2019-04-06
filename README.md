@@ -1,2 +1,3 @@
 # hello-world
 ....
+Completely new in programming. I have no idea if this can be useful for me
